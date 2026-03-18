@@ -5,7 +5,7 @@ Http:
 
 User:
   #"token":"用户对应子域名"
-  'admin': 'dnslog'
+  'admin': 'dnslog.render.com'
 
 Dns:
   domain: demo.com
