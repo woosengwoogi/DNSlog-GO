@@ -10,4 +10,4 @@ User:
 Dns:
   domain: dnslog.onrender.com
   ARecord:
-    'www': '1.1.1.1'
+    'www': '216.24.57.7'
