@@ -5,9 +5,9 @@ Http:
 
 User:
   #"token":"用户对应子域名"
-  'admin': 'dnslog.render.com'
+  'admin': 'dnslog'
 
 Dns:
-  domain: demo.com
+  domain: dnslog.onrender.com
   ARecord:
     'www': '1.1.1.1'
